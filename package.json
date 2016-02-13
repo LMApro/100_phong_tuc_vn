@@ -1,0 +1,18 @@
+{
+  "name": "get_phong_tuc_vn",
+  "version": "1.0.0",
+  "description": "Lay bai viet tren phong-tuc-viet-nam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ma Katz",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "html-pdf": "^1.5.0",
+    "q": "^1.4.1",
+    "request": "^2.69.0",
+    "request-promise": "^2.0.0"
+  }
+}
